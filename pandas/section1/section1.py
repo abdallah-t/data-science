@@ -25,5 +25,20 @@ description = df.describe()
 print(description)
 
 
-# getting hold the of the values of the dataframe
+# getting hold  of the values of the dataframe
+# the values are a numpy 2d array
 
+values = df.values
+print(values)
+
+
+# getting hold of the columns
+
+columns = df.columns
+print(columns)
+
+
+# getting hold the rows
+
+rows = df.index
+print(rows)
