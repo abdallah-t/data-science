@@ -1,67 +1,67 @@
-Name,name-in-arabic,phone number,relation,birthday,instagram,linkedin,Email
-Abdallah Tantawy,عبدالله  ,97335042486,,"July 1, 2005",,,
-Abdullah Bh,عبدالله  بتش,97333189518,Friend,,,,
-Abdullah Sheera,عبدالله  شعيرة,201159625172,Friend,,,,
-Abdulrahman  ,عبدالرحمن,201020649009,Friend,,,,
-Abdulrahman Bh,عبدالرحمن بحرين,97332185712,Friend,,,,
-Abdulrahman Rezq,عبدالرحمن  رزق,97337129799,Friend,,,,
-Abdulrahman Syria,عبدالرحمن  سوريا,96555206300,Friend,,,,
-Abdulrahman’S Dad,أبو  عبدالرحمن,97339144967,Friend's Relative,,,,
-Abdurrahman,عبدالرحمن,97337214676,Friend,,,,
-Abdurrahman Benefit,عبدالرحمن  بنفت,97366379967,Relative,,,,
-Ahmed  Reda,أحمد رضا,97336504043,Friend,,,,
-Ahmed Abdulfatah Eg,أحمد  عبدالفتاح,201095355070,Friend,,,,
-Ahmed Abdulfattah,احمد  ,201553967093,Friend,,,,
-Ahmed Abdulfattah,احمد  ,201032398301,Friend,,,,
-Ahmed Khaldoon,أحمد  خلدون,97366752005,Friend,,,,
-Ahmed’S Mom,ام احمد ريض,97336882980,Friend's Relative,,,,
-Ail Mokhtar,علي  مختار,97339460673,Friend,,,,
-Ali Al-Motawaa,علي  المطوعى,97333551223,Friend,,,,
-Ali Salman,علي  سلمان,97335169177,Friend,,,,
-Amjad Jamal,امجد  ,905527097467,Friend,,,,
-Anas Rabea,أنس  ,201020096958,Friend,,,,
-Anas Rabee,انس  ,97336530073,Friend,,,,
-Bassel Khaled,باسل  ,97336734199,Friend,,,,
-Dad,بابا  ,13852854145,Family Member,,,,
-El-Domyati,دمياطي  ,97332233607,Food,,,,
-Elyas,إلياس  ,97338495294,Friend,,,,
-Hamoody,حمودي  ,97336574737,Friend,,,,
-Hassan  Dahneem,حسن دهنيم,97333886618,Friend,,,,
-Hassan Khalaf,حسن خلف,97366717239,Friend,,,,
-Hassan Saleh,حسن  صالح,97335484135,,,,,
-Hussain Fadhel,حسين  فاضل,97338105494,Friend,,,,
-Jawad Jameel,جواد  ,97333112542,,,,,
-Kareem Bh,كريم  ,97335457452,Friend,"July 9, 2005",,,
-Kareem’S Mom,أم  كريم,97333674763,Friend's Relative,,,,
-Mahdi Jawad,مهدي  جواد,97336508023,Friend,,,,
-Mahdi Math,مهدي  ريض,97334201754,Friend,,,,
-Mahfooz,محفوظ  ,97332359461,Friend,,,,
-Mahfooz As,محفوظ  ,97334106288,Friend,,,,
-Majd,مجد  ,97334196910,Friend,,,,
-Majdi  ,مجدي,96596976940,Friend,,,,
-Mazen,مازن  ,97339633673,Friend,,,,
-Mazen’S Dad,أبو  مازن,97334526402,Friend,,,,
-Mohamed  Jameel,محمد جميل,97336239003,Friend,,,,
-Mohammed,محمد  ,97332255272,Friend,"July 7, 2004",,,
-Mohammed Khalid,محمد  خالد,97335391291,Friend,,,,
-Mohammeds Mom,أم محمد,97338031748,Friend,,,,
-Mom❤️  ,ماما,97333127723,Friend,,,,
-Morad Medhat,مراد  ,97336694335,Friend,,,,
-Motaaz Osama,معتز  ,97336636500,Friend,,,,
-Mr. Adel,استاذ  عادل,97336359771,Educator,,,,
-Mr. Ahmed Muftah,أستاذ أحمد مفتاح,97336188722,Educator,,,,
-Mr. Ashraf,الأستاذ أشرف رياضيات,97333320704,Educator,,,,
-Mr. El-Komi,استاذ  الكومي,97339669142,Educator,,,,
-Mr. Maher,استاذ  ماهر,97333508689,Educator,,,,
-Mr. Osama,أستاذ أسامة,97336022112,Educator,,,,
-Mr. Said,استاذ  انج,97336751965,Educator,,,,
-Mr. Shabaan,أستاذ شعبان,97335351542,Educator,,,,
-Mr. Wael El-Desoqi,أ وائل الدسوقي,97336878176,Educator,,,,
-Nasser Abdullah,ناصر  ,97333860828,Educator,,,,
-Omar Nerd,عمر  nerd,97336904647,Friend,,,,
-Shaqra  ,أحمد شقرا,201559005108,Friend,,,,
-Sweet  Water,ماء,97333046628,Service,,,,
-Tasnim  ,تسنيم,97336446029,Family Member,,,,
-Uncle Bassem,خالي  باسم,201092258566,Relative,,,,
-Yehya,يحيى  ,97338803510,Friend,,,,
-Yousif El-Jurdaby,يوسف  الجردابي,97338049997,Friend,,,,
+Name,name-in-arabic,phone number,relation,birthday,instagram,linkedin,Email,phone-country
+Abdallah Tantawy,عبدالله  ,97335042486,,"July 1, 2005",,,,Bahrain
+Abdullah Bh,عبدالله  بتش,97333189518,Friend,,,,,Bahrain
+Abdullah Sheera,عبدالله  شعيرة,201159625172,Friend,,,,,Egypt
+Abdulrahman  ,عبدالرحمن,201020649009,Friend,,,,,Egypt
+Abdulrahman Bh,عبدالرحمن بحرين,97332185712,Friend,,,,,Bahrain
+Abdulrahman Rezq,عبدالرحمن  رزق,97337129799,Friend,,,,,Bahrain
+Abdulrahman Syria,عبدالرحمن  سوريا,96555206300,Friend,,,,,Unknown
+Abdulrahman’S Dad,أبو  عبدالرحمن,97339144967,Friend's Relative,,,,,Bahrain
+Abdurrahman,عبدالرحمن,97337214676,Friend,,,,,Bahrain
+Abdurrahman Benefit,عبدالرحمن  بنفت,97366379967,Relative,,,,,Bahrain
+Ahmed  Reda,أحمد رضا,97336504043,Friend,,,,,Bahrain
+Ahmed Abdulfatah Eg,أحمد  عبدالفتاح,201095355070,Friend,,,,,Egypt
+Ahmed Abdulfattah,احمد  ,201553967093,Friend,,,,,Egypt
+Ahmed Abdulfattah,احمد  ,201032398301,Friend,,,,,Egypt
+Ahmed Khaldoon,أحمد  خلدون,97366752005,Friend,,,,,Bahrain
+Ahmed’S Mom,ام احمد ريض,97336882980,Friend's Relative,,,,,Bahrain
+Ail Mokhtar,علي  مختار,97339460673,Friend,,,,,Bahrain
+Ali Al-Motawaa,علي  المطوعى,97333551223,Friend,,,,,Bahrain
+Ali Salman,علي  سلمان,97335169177,Friend,,,,,Bahrain
+Amjad Jamal,امجد  ,905527097467,Friend,,,,,Unknown
+Anas Rabea,أنس  ,201020096958,Friend,,,,,Egypt
+Anas Rabee,انس  ,97336530073,Friend,,,,,Bahrain
+Bassel Khaled,باسل  ,97336734199,Friend,,,,,Bahrain
+Dad,بابا  ,13852854145,Family Member,,,,,Unknown
+El-Domyati,دمياطي  ,97332233607,Food,,,,,Bahrain
+Elyas,إلياس  ,97338495294,Friend,,,,,Bahrain
+Hamoody,حمودي  ,97336574737,Friend,,,,,Bahrain
+Hassan  Dahneem,حسن دهنيم,97333886618,Friend,,,,,Bahrain
+Hassan Khalaf,حسن خلف,97366717239,Friend,,,,,Bahrain
+Hassan Saleh,حسن  صالح,97335484135,,,,,,Bahrain
+Hussain Fadhel,حسين  فاضل,97338105494,Friend,,,,,Bahrain
+Jawad Jameel,جواد  ,97333112542,,,,,,Bahrain
+Kareem Bh,كريم  ,97335457452,Friend,"July 9, 2005",,,,Bahrain
+Kareem’S Mom,أم  كريم,97333674763,Friend's Relative,,,,,Bahrain
+Mahdi Jawad,مهدي  جواد,97336508023,Friend,,,,,Bahrain
+Mahdi Math,مهدي  ريض,97334201754,Friend,,,,,Bahrain
+Mahfooz,محفوظ  ,97332359461,Friend,,,,,Bahrain
+Mahfooz As,محفوظ  ,97334106288,Friend,,,,,Bahrain
+Majd,مجد  ,97334196910,Friend,,,,,Bahrain
+Majdi  ,مجدي,96596976940,Friend,,,,,Unknown
+Mazen,مازن  ,97339633673,Friend,,,,,Bahrain
+Mazen’S Dad,أبو  مازن,97334526402,Friend,,,,,Bahrain
+Mohamed  Jameel,محمد جميل,97336239003,Friend,,,,,Bahrain
+Mohammed,محمد  ,97332255272,Friend,"July 7, 2004",,,,Bahrain
+Mohammed Khalid,محمد  خالد,97335391291,Friend,,,,,Bahrain
+Mohammeds Mom,أم محمد,97338031748,Friend,,,,,Bahrain
+Mom❤️  ,ماما,97333127723,Friend,,,,,Bahrain
+Morad Medhat,مراد  ,97336694335,Friend,,,,,Bahrain
+Motaaz Osama,معتز  ,97336636500,Friend,,,,,Bahrain
+Mr. Adel,استاذ  عادل,97336359771,Educator,,,,,Bahrain
+Mr. Ahmed Muftah,أستاذ أحمد مفتاح,97336188722,Educator,,,,,Bahrain
+Mr. Ashraf,الأستاذ أشرف رياضيات,97333320704,Educator,,,,,Bahrain
+Mr. El-Komi,استاذ  الكومي,97339669142,Educator,,,,,Bahrain
+Mr. Maher,استاذ  ماهر,97333508689,Educator,,,,,Bahrain
+Mr. Osama,أستاذ أسامة,97336022112,Educator,,,,,Bahrain
+Mr. Said,استاذ  انج,97336751965,Educator,,,,,Bahrain
+Mr. Shabaan,أستاذ شعبان,97335351542,Educator,,,,,Bahrain
+Mr. Wael El-Desoqi,أ وائل الدسوقي,97336878176,Educator,,,,,Bahrain
+Nasser Abdullah,ناصر  ,97333860828,Educator,,,,,Bahrain
+Omar Nerd,عمر  nerd,97336904647,Friend,,,,,Bahrain
+Shaqra  ,أحمد شقرا,201559005108,Friend,,,,,Egypt
+Sweet  Water,ماء,97333046628,Service,,,,,Bahrain
+Tasnim  ,تسنيم,97336446029,Family Member,,,,,Bahrain
+Uncle Bassem,خالي  باسم,201092258566,Relative,,,,,Egypt
+Yehya,يحيى  ,97338803510,Friend,,,,,Bahrain
+Yousif El-Jurdaby,يوسف  الجردابي,97338049997,Friend,,,,,Bahrain
