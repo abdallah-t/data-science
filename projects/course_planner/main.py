@@ -15,5 +15,6 @@ for course in data:
     
 available_courses = set(available_courses) - set(done_courses)
 
+
 print(available_courses)
 # remove done_courses from available_courses
