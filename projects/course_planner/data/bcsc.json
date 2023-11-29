@@ -1,5 +1,5 @@
 {
-    "program_specification": {
+    "program_specifications": {
         "CSCI617": {
             "course_title": "Introduction to Computing",
             "prerequisite": "",
@@ -391,6 +391,7 @@
             "category": "Computer Science"
         }
     },
+
     "finished_courses": {
         "trimester1": [
             "CSCI617",
@@ -407,7 +408,7 @@
             "MATH622",
             "PHYS631",
             "MATH711"
-        ],
+        ]
     }
     
 
