@@ -1,0 +1,66 @@
+course_code,course_title,prerequisite,credit_units,category
+CSCI617,Introduction to Computing,,3,Computer Science
+ENGL611,English Communication Skills 1,,3,Language
+ARAB600,Arabic Language,,3,Language
+EUTH500,Euthenics,,0,Miscellaneous
+MATH631,Calculus 1,,5,Math
+HIST600,History of Bahrain and GCC Region,,3,Miscellaneous
+CSCI626,Ethics for Computing,CSCI617,2,Computer Science
+CSCI627,Computer Programming 1,CSCI617,3,Computer Science
+ENGL621,English Communication Skills,,3,Language
+HUMR600,Human Rights,,3,Miscellaneous
+CHEM600,General Chemistry,,3,Science
+MATH711,Calculus 2,MATH631,5,Math
+CSCI628,Multimedia Development,CSCI617,3,Computer Science
+CSCI638,Digital Logic Design,MATH631,3,Computer Science
+CSCI639,Computer Programming 2,CSCI627,3,Computer Science
+ENGL631,Speech and Oral Communication,ENGL621,3,Language
+MATH622,Discrete Mathematics,MATH631,3,Math
+PHYS631,University Physics 1,MATH631,3,Science
+CSCI711,Data Structures,CSCI639,3,Computer Science
+CSCI712,Green Computing,CSCI617,3,Computer Science
+ENGL711,Technical Writing,ENGL621,3,Language
+ACCT600,Introduction to Financial Accounting,MATH631,3,Miscellaneous
+MATH722,Advanced Mathematics,MATH711,3,Math
+PHYS711,University Physics 2,PHYS631,3,Science
+CSCI721,Object-Oriented Programming,CSCI711,3,Computer Science
+CSCI722,Database Management Systems,CSCI711,3,Computer Science
+CSCI723,Computer Organization and Architecture,CSCI638,3,Computer Science
+CSCI724,Web Technologies 1,CSCI639,3,Computer Science
+CSCI725,Introduction to Data Science,CSCI711,3,Computer Science
+MATH621,Probability and Statistics,MATH622,3,Math
+CSCI731,Computer Networks 1,CSCI723,3,Computer Science
+CSCI732,Database Management Systems 2,CSCI722,3,Computer Science
+CSCI733,System Analysis and Design,CSCI722,3,Computer Science
+CSCI734,Algorithm Analysis and Design,CSCI711,3,Computer Science
+CSCI735,Automata and Formal Languages,MATH622,3,Computer Science
+MATH732,Numerical Methods and Analysis,MATH621,3,Math
+CSCI811,Computer Graphics,CSCI721,3,Computer Science
+CSCI812,Operating System,CSCI723,3,Computer Science
+CSCI813,Computer Networks 2,CSCI731,3,Computer Science
+CSCI814,Visual Programming,CSCI733,3,Computer Science
+CSCI815,Fundamentals of Cryptography,CSCI731,3,Computer Science
+MATH733,Linear Algebra,MATH732,3,Math
+CSCI821,Theory of Programming Languages,CSCI732,3,Computer Science
+CSCI822,Statistical Analysis and Data Mining,CSCI732,3,Computer Science
+CSCI823,Software Engineering,CSCI733,3,Computer Science
+CSCI824,Web Technologies 2,CSCI724,3,Computer Science
+CSCI825,Human-Computer Interaction,CSCI733,3,Computer Science
+MATH821,Optimization Methods,MATH732,3,Math
+CSCI831,Software Quality Assurance,CSCI733,3,Computer Science
+CSCI832,Parallel and Distributed Computing,CSCI813,3,Computer Science
+CSCI833,Software Project Management,CSCI733,3,Computer Science
+CSCI834,Cyber Security,CSCI813,3,Computer Science
+CSCI835,Cloud Computing,CSCI813,3,Computer Science
+CSCI880,Elective 1,CSCI825,3,Computer Science
+CSCI841,Mobile Application Development,CSCI825,3,Computer Science
+CSCI842,Internship,CSCI833,6,Computer Science
+CSCI843,Software Project A,CSCI833,3,Computer Science
+CSCI844,Ethical Hacking,CSCI813,3,Computer Science
+CSCI881,Free Elective,,3,Computer Science
+CSCI851,Big Data Analytics,CSCI823,3,Computer Science
+CSCI852,Artificial Intelligence and Machine Learning,CSCI821,3,Computer Science
+CSCI853,Software Project B,CSCI843,3,Computer Science
+CSCI854,Special Topics in Computing,CSCI835,3,Computer Science
+CSCI855,Technopreneurship,CSCI824,3,Computer Science
+CSCI882,Elective 2,CSCI833,3,Computer Science

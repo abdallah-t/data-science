@@ -1,0 +1,392 @@
+{
+  "CSCI617": {
+    "course_title": "Introduction to Computing",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "ENGL611": {
+    "course_title": "English Communication Skills 1",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Language"
+  },
+  "ARAB600": {
+    "course_title": "Arabic Language",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Language"
+  },
+  "EUTH500": {
+    "course_title": "Euthenics",
+    "prerequisite": "",
+    "credit_units": 0,
+    "category": "Miscellaneous"
+  },
+  "MATH631": {
+    "course_title": "Calculus 1",
+    "prerequisite": "",
+    "credit_units": 5,
+    "category": "Math"
+  },
+  "HIST600": {
+    "course_title": "History of Bahrain and GCC Region",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Miscellaneous"
+  },
+  "CSCI626": {
+    "course_title": "Ethics for Computing",
+    "prerequisite": "CSCI617",
+    "credit_units": 2,
+    "category": "Computer Science"
+  },
+  "CSCI627": {
+    "course_title": "Computer Programming 1",
+    "prerequisite": "CSCI617",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "ENGL621": {
+    "course_title": "English Communication Skills",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Language"
+  },
+  "HUMR600": {
+    "course_title": "Human Rights",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Miscellaneous"
+  },
+  "CHEM611": {
+    "course_title": "General Chemistry",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Science"
+  },
+  "MATH711": {
+    "course_title": "Calculus 2",
+    "prerequisite": "MATH631",
+    "credit_units": 5,
+    "category": "Math"
+  },
+  "CSCI628": {
+    "course_title": "Multimedia Development",
+    "prerequisite": "CSCI617",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI638": {
+    "course_title": "Digital Logic Design",
+    "prerequisite": "MATH631",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI639": {
+    "course_title": "Computer Programming 2",
+    "prerequisite": "CSCI627",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "ENGL631": {
+    "course_title": "Speech and Oral Communication",
+    "prerequisite": "ENGL621",
+    "credit_units": 3,
+    "category": "Language"
+  },
+  "MATH622": {
+    "course_title": "Discrete Mathematics",
+    "prerequisite": "MATH631",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "PHYS631": {
+    "course_title": "University Physics 1",
+    "prerequisite": "MATH631",
+    "credit_units": 3,
+    "category": "Science"
+  },
+  "CSCI711": {
+    "course_title": "Data Structures",
+    "prerequisite": "CSCI639",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI712": {
+    "course_title": "Green Computing",
+    "prerequisite": "CSCI617",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "ENGL711": {
+    "course_title": "Technical Writing",
+    "prerequisite": "ENGL621",
+    "credit_units": 3,
+    "category": "Language"
+  },
+  "ACCT600": {
+    "course_title": "Introduction to Financial Accounting",
+    "prerequisite": "MATH631",
+    "credit_units": 3,
+    "category": "Miscellaneous"
+  },
+  "MATH722": {
+    "course_title": "Advanced Mathematics",
+    "prerequisite": "MATH711",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "PHYS711": {
+    "course_title": "University Physics 2",
+    "prerequisite": "PHYS631",
+    "credit_units": 3,
+    "category": "Science"
+  },
+  "CSCI721": {
+    "course_title": "Object-Oriented Programming",
+    "prerequisite": "CSCI711",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI722": {
+    "course_title": "Database Management Systems",
+    "prerequisite": "CSCI711",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI723": {
+    "course_title": "Computer Organization and Architecture",
+    "prerequisite": "CSCI638",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI724": {
+    "course_title": "Web Technologies 1",
+    "prerequisite": "CSCI639",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI725": {
+    "course_title": "Introduction to Data Science",
+    "prerequisite": "CSCI711",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "MATH621": {
+    "course_title": "Probability and Statistics",
+    "prerequisite": "MATH622",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "CSCI731": {
+    "course_title": "Computer Networks 1",
+    "prerequisite": "CSCI723",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI732": {
+    "course_title": "Database Management Systems 2",
+    "prerequisite": "CSCI722",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI733": {
+    "course_title": "System Analysis and Design",
+    "prerequisite": "CSCI722",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI734": {
+    "course_title": "Algorithm Analysis and Design",
+    "prerequisite": "CSCI711",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI735": {
+    "course_title": "Automata and Formal Languages",
+    "prerequisite": "MATH622",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "MATH732": {
+    "course_title": "Numerical Methods and Analysis",
+    "prerequisite": "MATH621",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "CSCI811": {
+    "course_title": "Computer Graphics",
+    "prerequisite": "CSCI721",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI812": {
+    "course_title": "Operating System",
+    "prerequisite": "CSCI723",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI813": {
+    "course_title": "Computer Networks 2",
+    "prerequisite": "CSCI731",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI814": {
+    "course_title": "Visual Programming",
+    "prerequisite": "CSCI733",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI815": {
+    "course_title": "Fundamentals of Cryptography",
+    "prerequisite": "CSCI731",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "MATH733": {
+    "course_title": "Linear Algebra",
+    "prerequisite": "MATH732",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "CSCI821": {
+    "course_title": "Theory of Programming Languages",
+    "prerequisite": "CSCI732",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI822": {
+    "course_title": "Statistical Analysis and Data Mining",
+    "prerequisite": "CSCI732",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI823": {
+    "course_title": "Software Engineering",
+    "prerequisite": "CSCI733",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI824": {
+    "course_title": "Web Technologies 2",
+    "prerequisite": "CSCI724",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI825": {
+    "course_title": "Human-Computer Interaction",
+    "prerequisite": "CSCI733",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "MATH821": {
+    "course_title": "Optimization Methods",
+    "prerequisite": "MATH732",
+    "credit_units": 3,
+    "category": "Math"
+  },
+  "CSCI831": {
+    "course_title": "Software Quality Assurance",
+    "prerequisite": "CSCI733",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI832": {
+    "course_title": "Parallel and Distributed Computing",
+    "prerequisite": "CSCI813",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI833": {
+    "course_title": "Software Project Management",
+    "prerequisite": "CSCI733",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI834": {
+    "course_title": "Cyber Security",
+    "prerequisite": "CSCI813",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI835": {
+    "course_title": "Cloud Computing",
+    "prerequisite": "CSCI813",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI880": {
+    "course_title": "Elective 1",
+    "prerequisite": "CSCI825",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI841": {
+    "course_title": "Mobile Application Development",
+    "prerequisite": "CSCI825",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI842": {
+    "course_title": "Internship",
+    "prerequisite": "CSCI833",
+    "credit_units": 6,
+    "category": "Computer Science"
+  },
+  "CSCI843": {
+    "course_title": "Software Project A",
+    "prerequisite": "CSCI833",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI844": {
+    "course_title": "Ethical Hacking",
+    "prerequisite": "CSCI813",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI881": {
+    "course_title": "Free Elective",
+    "prerequisite": "",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI851": {
+    "course_title": "Big Data Analytics",
+    "prerequisite": "CSCI823",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI852": {
+    "course_title": "Artificial Intelligence and Machine Learning",
+    "prerequisite": "CSCI821",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI853": {
+    "course_title": "Software Project B",
+    "prerequisite": "CSCI843",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI854": {
+    "course_title": "Special Topics in Computing",
+    "prerequisite": "CSCI835",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI855": {
+    "course_title": "Technopreneurship",
+    "prerequisite": "CSCI824",
+    "credit_units": 3,
+    "category": "Computer Science"
+  },
+  "CSCI882": {
+    "course_title": "Elective 2",
+    "prerequisite": "CSCI833",
+    "credit_units": 3,
+    "category": "Computer Science"
+  }
+}
